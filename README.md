@@ -1,1 +1,1 @@
-# myPS1
+This is a PowerShell script to disable a plan/plans from the Existing license in which users are assigned to. This script will removed all plans e.g. Exchange Online (Plan2) and Exchange Online (Plan1) from the Office 365 Licenses plan in the list.
